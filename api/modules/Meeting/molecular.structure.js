@@ -1,5 +1,5 @@
 module.exports = [
   'title',
-  'tag',
+  'date',
   'created_at'
 ]
