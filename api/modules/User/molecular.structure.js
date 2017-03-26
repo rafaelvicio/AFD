@@ -1,7 +1,11 @@
 module.exports = [
   'active',
-  'name', 
+  'name',
   'password',
   'email',
+  'firstName',
+  'nickName',
+  'lastName',
+  'bibliography',
   'created_at'
 ]
