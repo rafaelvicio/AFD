@@ -1,7 +1,6 @@
 module.exports = [
   'name',
-  'tag',
-  'email',
-  'bibliography',
+  'informations',
+  'link',
   'created_at'
 ]
